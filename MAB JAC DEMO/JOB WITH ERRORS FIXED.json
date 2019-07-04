@@ -40,7 +40,7 @@
 		},
 		"ThisOneWillFail": {
 			"Type": "Job:Command",
-			"Command": "nonexistingcommand"
+			"Command": "pwd"
 		},
 		"Flow1": {
 			"Type": "Flow",
